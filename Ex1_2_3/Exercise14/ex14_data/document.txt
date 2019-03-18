@@ -1,0 +1,4 @@
+Toy example
+file for Hadoop
+Hadoop running
+example

@@ -1,0 +1,3 @@
+Sentence#1	Hadoop or Spark
+Sentence#2	Hadoop or Spark and Java
+Sentence#3	Hadoop and Big Data
